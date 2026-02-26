@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Shape Mover",
+    "slug": "shape-mover-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourcompany.shapemover"
+    },
+    "android": {
+      "package": "com.yourcompany.shapemover"
+    }
+  }
+}
